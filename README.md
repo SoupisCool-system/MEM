@@ -1,0 +1,2 @@
+# MEM
+Multiplication error model
